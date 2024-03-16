@@ -1,0 +1,1 @@
+ros2 launch stretch_nav2 navigation.launch.py mode:=navigation map:=/home/hello-robot/cse481/map_capstone_room.yaml
